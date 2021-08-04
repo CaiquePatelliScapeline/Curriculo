@@ -86,7 +86,7 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 <br>
 
 ## Redes Sociais
-[LinkedIn](www.linkedin.com/in/caique-patelli-scapeline)
+[LinkedIn](https://www.linkedin.com/in/caique-patelli-scapeline)
 
 [GitHub](https://github.com/CaiquePatelliScapeline)
 
