@@ -2,7 +2,9 @@
 ## __Desenvolvedor Web - Junior / Front-end e Back-end__
 
 🏠 Itupeva/SP
+
 📱 (11) 94117-0146
+
 📧 caique.scapeline@fatec.sp.gov.br
 
 <br>
