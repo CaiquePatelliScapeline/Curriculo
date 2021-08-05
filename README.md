@@ -44,6 +44,7 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 * Delphi
 
 ### Frameworks Back-End
+* Node.js
 
 ### Mobile
 * Delphi
@@ -58,10 +59,6 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 
 ### Micro Controladores
 * Arduino
-
-<br>
-
-## Projetos
 
 <br>
 
@@ -92,7 +89,7 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 
 [GitHub](https://github.com/CaiquePatelliScapeline)
 
-[Site Pessoal]()
+[Site Pessoal](https://caiquepatelliscapeline.github.io/Personal-Site/index.html)
 
 [Instagram](https://www.instagram.com/caiquepatelliescapeline/)
 
