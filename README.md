@@ -57,28 +57,28 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 * Figma
 * Photoshop
 
-### Micro Controladores
+### Microcontroladores
 * Arduino
 
 <br>
 
 ## Cursos
-* ETCOMP - Excel Básico - Concluido em 2016
-* RK - Programação Desktop + Android - Concluido em 2019
-* RK - Excel Avançado - Concluido em 2019
-* Centro Paula Souza MOOC - Arduino - Concluido em 2020
-* Centro Paula Souza MOOC - Design e Photoshop - Concluido em 2020
-* Cisco Networking Academy - IT Essentials 6.0 - Concluido em 2020
-* Cisco Networking Academy - IT Essentials 7.1 - Concluido em 2021
-* Cisco Networking Academy - Get Connected - Concluido em 2019
-* Cisco Networking Academy - Introduction to Cybersecurity - Concluido em 2020
-* Digital Innovation One - Conceitos de responsividade e experiênci do usuário - Concluido em 2020
-* Digital Innovation One - Introdução a Estrutura de Dados e Algoritmos - Concluido em 2020
+* ETCOMP - Excel Básico - Concluído em 2016
+* RK - Programação Desktop + Android - Concluído em 2019
+* RK - Excel Avançado - Concluído em 2019
+* Centro Paula Souza MOOC - Arduino - Concluído em 2020
+* Centro Paula Souza MOOC - Design e Photoshop - Concluído em 2020
+* Cisco Networking Academy - IT Essentials 6.0 - Concluído em 2020
+* Cisco Networking Academy - IT Essentials 7.1 - Concluído em 2021
+* Cisco Networking Academy - Get Connected - Concluído em 2019
+* Cisco Networking Academy - Introduction to Cybersecurity - Concluído em 2020
+* Digital Innovation One - Conceitos de responsividade e experiência do usuário - Concluído em 2020
+* Digital Innovation One - Introdução a Estrutura de Dados e Algoritmos - Concluído em 2020
 
 <br>
 
 ## Prêmios / Conquistas
-* OBMEP - Mensão Honrosa - 2016
+* OBMEP - Menção Honrosa - 2016
 * OBMEP - Menção Honrosa - 2017
 * Cisco Networking Academy - Carta de Recomendação IT Essentials - 2021
 
