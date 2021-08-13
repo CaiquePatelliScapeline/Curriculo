@@ -1,5 +1,5 @@
 # __Caique Patelli Scapeline__
-## __Desenvolvedor Web - Junior / Front-end e Back-end__
+## __Estudante de Análise e Desenvolvimento de Sistemas__
 
 🏠 Itupeva/SP
 
