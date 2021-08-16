@@ -1,5 +1,5 @@
 # __Caique Patelli Scapeline__
-## __Estudante de Análise e Desenvolvimento de Sistemas__
+## __Desenvolvedor Back-end Junior__
 
 🏠 Itupeva/SP
 
@@ -10,8 +10,8 @@
 <br>
 
 Atualmente, busco uma primeira oportunidade no mercado de trabalho, a fim de 
-ampliar meus conhecimentos e experiências, seja ela em desenvolvimento web, mobile ou desktop,
-pois estou sempre aberto a novos conhecimentos.
+ampliar meus conhecimentos e experiências em desenvolvimento de APIs com
+Node.js.
 
 <br>
 
@@ -42,6 +42,8 @@ FATEC Dr. Archimedes Lammoglia - Tecnólogo em Análise e Desenvolvimento de Sis
 * C#
 * Java
 * Delphi
+* JavaScript
+* TypeScript
 
 ### Frameworks Back-End
 * Node.js
