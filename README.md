@@ -1,5 +1,5 @@
 # __Caique Patelli Scapeline__
-## __Desenvolvedor Back-end Junior__
+## __Desenvolvedor Full-stack Junior__
 
 🏠 Itupeva/SP
 
@@ -10,8 +10,7 @@
 <br>
 
 Atualmente, busco uma primeira oportunidade no mercado de trabalho, a fim de 
-ampliar meus conhecimentos e experiências em desenvolvimento de APIs com
-Node.js.
+ampliar meus conhecimentos e experiências em desenvolvimento de aplicações web.
 
 <br>
 
